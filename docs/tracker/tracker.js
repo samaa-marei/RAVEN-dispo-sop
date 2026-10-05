@@ -429,7 +429,7 @@
 
 
         <h1 id="raven-tracker-title">
-          Welcome to Lead Manager Training
+          Welcome to Disposition SOP
         </h1>
 
 
@@ -480,7 +480,7 @@
 
 
         <div id="raven-tracker-footer">
-          Lead Manager Training
+          Disposition SOP
         </div>
 
       </div>
